@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "lVGxfCtmy",
+      "uuid": "a6ab5454-95b9-4e52-a286-8fcc0bbc132c",
+      "firstName": "Ye",
+      "lastName": "Thiha",
+      "username": "yethiha",
+      "password": "$2a$10$pVEZYuVFv75tkxppW8ejyex73NBrCKdTWX4tGmmsvpi85ETl3ECOG",
+      "balance": 0,
+      "createdAt": "2022-07-09T07:09:11.957Z",
+      "modifiedAt": "2022-07-09T07:09:11.957Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "5tp0NaMzR",
+      "uuid": "efeb83ba-0ce0-4c47-8c3a-40b77a988117",
+      "userId": "lVGxfCtmy",
+      "bankName": "KBZ-Bank",
+      "accountNumber": "192086783314",
+      "routingNumber": "012345678",
+      "isDeleted": false,
+      "createdAt": "2022-07-09T07:10:41.396Z",
+      "modifiedAt": "2022-07-09T07:10:41.396Z"
     }
   ],
   "transactions": [
